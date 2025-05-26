@@ -24,4 +24,8 @@ Ce projet vise à :
 ---
 
 ## 🚀 Lancer l'application localement
+1. Cloner le repo :
+```bash
+git clone https://github.com/votre-utilisateur/assistance-tourisme-accessible.git
+cd assistance-tourisme-accessible
 
